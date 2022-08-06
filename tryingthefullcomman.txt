@@ -1,1 +1,0 @@
-I'm trying to create a new file so I could try out the pull command on CMD.
